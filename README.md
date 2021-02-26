@@ -1,3 +1,4 @@
+<img src = "/cover.png" alt = "Logo"/>
 ### Hi there 👋
 
 <!--
