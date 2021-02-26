@@ -12,14 +12,6 @@ Most of the work I am currently involved in is highlighted in the [ready4-dev we
 
 ---
 
-### Github stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewphamilton&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewphamilton)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ready4-dev&repo=TTU)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📫 Contact
 I can be contacted at matthew.hamilton@orygen.org.au. Some further information about me:
 <p>
@@ -29,6 +21,14 @@ I can be contacted at matthew.hamilton@orygen.org.au. Some further information a
 
 ---
 
+
+### Github stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewphamilton&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewphamilton&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ready4-dev&repo=TTU&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **matthewphamilton/matthewphamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
