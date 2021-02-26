@@ -16,8 +16,10 @@ Most of the work I am currently involved in is highlighted in the [ready4-dev we
 
 I am an economist who writes code rather than a coder and most of the software projects I am involved in are developped using the popular reproducible science language <img alt = "R" src = "https://img.shields.io/badge/-276DC3?logo=R&logoColor=white&style=for-the-badge"/>.
 
+---
+
 ### 📫 Contact
-<img alt = "ORCID" src = "https://img.shields.io/badge/ORCID-A6CE39?logo=ORCID&logoColor=white&style=for-the-badge"/>
+<img alt = "ORCID" src = "https://img.shields.io/badgehttps://orcid.org/0000-0001-7407-9194-A6CE39?logo=ORCID&logoColor=white&style=for-the-badge"/>
 
 <!--
 **matthewphamilton/matthewphamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
