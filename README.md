@@ -1,4 +1,4 @@
-<img src = "/cover.png" alt = "Logo"/>
+<img src = "/custom_cover.png" alt = "Logo"/>
 ### Hi there 👋
 
 <!--
