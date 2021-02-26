@@ -14,12 +14,18 @@ Most of the work I am currently involved in is highlighted in the [ready4-dev we
 
 ### 💬 Languages
 
-I am an economist who writes code rather than a coder and most of the software projects I am involved in are developped using the popular reproducible science language <img alt = "R" src = "https://img.shields.io/badge/-276DC3?logo=R&logoColor=white&style=for-the-badge"/>.
+I am an economist who writes code rather than a coder and most of the software projects I am involved in are developped using the popular reproducible science language:
+
+<img alt = "R" src = "https://img.shields.io/badge/-276DC3?logo=R&logoColor=white&style=for-the-badge"/>.
 
 ---
 
 ### 📫 Contact
-<a href = "https://orcid.org/0000-0001-7407-9194"><img alt = "ORCID" src = "https://img.shields.io/badge/ORCID-A6CE39?logo=ORCID&logoColor=white&style=for-the-badge"/></a>
+I can be contacted at matthew.hamilton@orygen.org.au. Some further information about me:
+<p>
+  <a href = "https://orcid.org/0000-0001-7407-9194"><img alt = "ORCID" src = "https://img.shields.io/badge/ORCID-A6CE39?logo=ORCID&logoColor=white&style=for-the-badge"/></a>
+    <a href = "https://www.linkedin.com/in/matthewhamiltonprofile/"><img alt = "LinkedIn" src = "https://img.shields.io/badge/matthewhamiltonprofile-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>
+</p>
 
 <!--
 **matthewphamilton/matthewphamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
