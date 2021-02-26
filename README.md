@@ -18,6 +18,7 @@ I am an economist who writes code rather than a coder and most of the software p
 
 <img alt = "R" src = "https://img.shields.io/badge/-276DC3?logo=R&logoColor=white&style=for-the-badge"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewphamilton)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 📫 Contact
