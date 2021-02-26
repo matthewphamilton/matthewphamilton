@@ -3,7 +3,7 @@
 
 I'm Matt and I am a research economist at Orygen, where I work on a range of modelling projects aimed at improving mental health outcomes for young people. My main focus is improving the quality and usefulness of mental health models through adopting modular, replicable and generalisable approaches to model development and validation.
 
-Most of the work I am currently involved in is highlighted in the [ready4-dev website](https://www.ready4-dev.com/about/). I am an economist who writes code rather than a coder and most of the software projects I am involved in are develkopped using the popular reproducible science language <img alt = "" src = "https://img.shields.io/badge/-276DC3?logo=R&logoColor=white&style=for-the-badge"/>.
+Most of the work I am currently involved in is highlighted in the [ready4-dev website](https://www.ready4-dev.com/about/). I am an economist who writes code rather than a coder and most of the software projects I am involved in are develkopped using the popular reproducible science language <img alt = "R" src = "https://img.shields.io/badge/-276DC3?logo=R&logoColor=white&style=for-the-badge"/>.
 <!--
 **matthewphamilton/matthewphamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
