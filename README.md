@@ -12,14 +12,13 @@ Most of the work I am currently involved in is highlighted in the [ready4-dev we
 
 ---
 
-### 💬 Languages
+### Github stats
 
-I am an economist who writes code rather than a coder and most of the software projects I am involved in are developped using the popular reproducible science language:
-
-<img alt = "R" src = "https://img.shields.io/badge/-276DC3?logo=R&logoColor=white&style=for-the-badge"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewphamilton&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewphamilton)](https://github.com/anuraghazra/github-readme-stats)
----
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ready4-dev&repo=TTU)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Contact
 I can be contacted at matthew.hamilton@orygen.org.au. Some further information about me:
@@ -30,9 +29,6 @@ I can be contacted at matthew.hamilton@orygen.org.au. Some further information a
 
 ---
 
-### Github stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewphamilton&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **matthewphamilton/matthewphamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
