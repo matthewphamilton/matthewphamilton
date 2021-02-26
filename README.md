@@ -19,7 +19,7 @@ I am an economist who writes code rather than a coder and most of the software p
 ---
 
 ### 📫 Contact
-<img alt = "ORCID" src = "https://img.shields.io/badgehttps://orcid.org/0000-0001-7407-9194-A6CE39?logo=ORCID&logoColor=white&style=for-the-badge"/>
+<a href = "https://orcid.org/0000-0001-7407-9194"><img alt = "ORCID" src = "https://img.shields.io/badge/ORCID-A6CE39?logo=ORCID&logoColor=white&style=for-the-badge"/></a>
 
 <!--
 **matthewphamilton/matthewphamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
