@@ -12,9 +12,9 @@ Most of the work I am currently involved in is highlighted in the [ready4-dev we
 
 ---
 
-### 📫 Contact
+### 📫 CV and further contact
 
-I can be contacted at matthew.hamilton@orygen.org.au. Some further information about me:
+A [pdf version of my CV is available here](https://matthewphamilton.github.io/mybio/Docs/MPHamiltonCV.pdf). I can be contacted at matthew.hamilton@orygen.org.au. Some further information about me:
 <p>
   <a href = "https://orcid.org/0000-0001-7407-9194"><img alt = "ORCID" src = "https://img.shields.io/badge/ORCID-A6CE39?logo=ORCID&logoColor=white&style=for-the-badge"/></a>
     <a href = "https://www.linkedin.com/in/matthewhamiltonprofile/"><img alt = "LinkedIn" src = "https://img.shields.io/badge/matthewhamiltonprofile-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>
