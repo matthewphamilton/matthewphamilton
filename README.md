@@ -26,8 +26,6 @@ A [pdf version of my CV is available here](https://matthewphamilton.github.io/my
 
 I am an economist who writes code, rather than a coder, so I tend to use the same reproducible science scripting language (R) for all projects involving data analysis.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewphamilton&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 ### ⚡ Github stats
 
 My recent code authoring activity can be summarised as follows:
