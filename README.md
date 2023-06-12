@@ -2,19 +2,19 @@
 
 ### Hi there 👋
 
-I'm Matt and I am a research economist at [Orygen](https://www.orygen.org.au/), where I work on a range of modelling projects aimed at improving mental health outcomes for young people. My main focus is improving the quality and usefulness of mental health models through adopting modular, replicable and generalisable approaches to model development and validation. 
+I'm Matt and I am a PhD candidate at [Monash University Health Economics Group](https://research.monash.edu/en/organisations/sphpm-health-economics-group), focused on developing and applying transparent, reusable and updatable computational models. 
 
 ---
 
 ### 🔭 I’m currently working on ...
 
-Most of the work I am currently involved in is highlighted in the [ready4-dev website](https://www.ready4-dev.com/about/), with most of the source code hosted on the [ready4-dev git repository](https://github.com/ready4-dev)
+Most of the work I am currently involved in is highlighted in the [ready4-dev website](https://www.ready4-dev.com/), with most of the source code hosted on the [ready4-dev git repository](https://github.com/ready4-dev).
 
 ---
 
 ### 📫 Website, CV and further contact
 
-My [academic profile website](https://mph-economist.netlify.app/) has some more information about the work I do. A [pdf version of my CV is available here](https://matthewphamilton.github.io/mybio/Docs/MPHamiltonCV.pdf). I can be contacted at matthew.hamilton@orygen.org.au. Some further information about me:
+My [academic profile website](https://mph-economist.netlify.app/) has some more information about the work I do. A [pdf version of my CV is available here](https://matthewphamilton.github.io/mybio/Docs/MPHamiltonCV.pdf). I can be contacted at matthew.hamilton1@monash.edu. Some further information about me:
 <p>
   <a href = "https://orcid.org/0000-0001-7407-9194"><img alt = "ORCID" src = "https://img.shields.io/badge/ORCID-A6CE39?logo=ORCID&logoColor=white&style=for-the-badge"/></a>
     <a href = "https://www.linkedin.com/in/matthewhamiltonprofile/"><img alt = "LinkedIn" src = "https://img.shields.io/badge/matthewhamiltonprofile-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>
