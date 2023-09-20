@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Matt and I am a PhD candidate at [Monash University Health Economics Group](https://research.monash.edu/en/organisations/sphpm-health-economics-group), focused on developing and applying transparent, reusable and updatable computational models. 
+I'm Matt and I am a Research Fellow at [Monash University Health Economics Group](https://research.monash.edu/en/organisations/sphpm-health-economics-group), focused on developing and applying transparent, reusable and updatable computational models. 
 
 ---
 
